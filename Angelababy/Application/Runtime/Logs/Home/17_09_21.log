@@ -1,0 +1,18 @@
+[ 2017-09-21T14:53:09+08:00 ] ::1 /code/Angelababy/index.php/Home/register/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.045631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.045683s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-09-21T15:25:42+08:00 ] ::1 /code/Angelababy/index.php/Home/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+ERR: 无法加载控制器:Home
+
